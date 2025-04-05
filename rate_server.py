@@ -1,12 +1,3 @@
-#
-# TODO: imports
-# TODO: create server socket
-# TODO: bind
-# TODO: listen
-# TODO: clientSocket, client_addr = accept
-# TODO: recv
-# TODO: send
-
 import socket
 import os
 import json
